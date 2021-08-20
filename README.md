@@ -1,8 +1,8 @@
 # 联系方式
 
-- 手机：15928945206 
-- Email：zongjiu.chen@qq.com
-- 微信号：chenzongjiu39
+- 手机：xxxxxxx 
+- Email：xxxx.chen@qq.com
+- 微信号：chenxxxx
 
 # 个人信息
 
@@ -61,14 +61,14 @@
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [xxxx爽吗？](https://blog.csdn.net/xxx)
-- [Java 自学指南(翻译文章)](https://blog.csdn.net/xxx) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+- [xxxx爽吗？](https://blog.csdn.net/xxxxxxxxx)
+- [Java 自学指南(翻译文章)](https://blog.csdn.net/xxxxxxxx) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
 
 ## 演讲和讲义
 （放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
 
-  - 2019年公司内部演讲：[还有一周呢，就无心撸码着急回家？](https://blog.csdn.net/xxx)
-  - 2020年公司内部分享：[这两个IDE插件，可以让你写出质量杠杠的代码](https://blog.csdn.net/xxx)
+  - 2019年公司内部演讲：[xxxxxxxxxxx？](https://blog.csdn.net/xxx)
+  - 2020年公司内部分享：[谢谢谢谢谢谢谢谢谢谢质量杠杠的代码](https://blog.csdn.net/xxx)
     
     
 # 技能清单
